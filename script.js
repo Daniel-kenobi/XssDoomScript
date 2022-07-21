@@ -53,8 +53,8 @@ function CreateGameIframe() {
 
     iframe.height = GameResolutionHeight;
     iframe.width = GameResolutionWidth;
-    iframe.style.marginLeft = 'calc(100vw / 5)';
-    iframe.style.marginRight = 'calc(100vw / 5)';
+    /*iframe.style.marginLeft = 'calc(100vw / 5)';
+    iframe.style.marginRight = 'calc(100vw / 5)';*/
     iframe.allowFullscreen = GameFullScreen;
 
     document.body.appendChild(iframe);
