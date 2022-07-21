@@ -9,5 +9,5 @@ Alguns atributos como cor de fundo, resolução do iframe e texto a serem exibid
 
 ##### Exemplo de como o deface fica após explorado
 <p align="center">
-    <img src="https://i.ibb.co/QCt9SNz/Deface-Example.png" alt="Deface-Example" width="400" height="400">
+    <img src="https://i.ibb.co/QCt9SNz/Deface-Example.png" alt="Deface-Example" width="600" height="400">
 </p>
